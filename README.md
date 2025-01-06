@@ -1,19 +1,26 @@
-# projects
-projects interested in... 
+# Projects I am interested in are as follows
 
-# projects
+Projects are a way of changing reality and of helping to ensure Earth becomes more ideal. 
 
-# UO Fiddler
-https://github.com/MichaelTen/UOFiddler/ 
+## Projects from me or that might be potential projects
 
-# Federated Forgejo
-https://codeberg.org/ForgeFed
+### Turning markdown into HTML and into MediaWiki syntax
+![image](https://github.com/user-attachments/assets/163c7329-0c67-4d34-b2d3-68804d571605)
 
-https://forgefed.org/blog/forks/
+## External projects (not by me) that interest me
 
-https://forgejo.org/faq/
+### UO Fiddler
+- https://github.com/MichaelTen/UOFiddler/ 
 
-# Decentralized advertising
+### Federated Forgejo
+- https://codeberg.org/ForgeFed
+- https://forgefed.org/blog/forks/
+- https://forgejo.org/faq/
+
+### Decentralized advertising
 https://github.com/SocialDAO/ads
+
+### Visualize LLM's
+= https://bbycroft.net/llm
 
 
