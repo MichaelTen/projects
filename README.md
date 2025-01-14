@@ -7,6 +7,10 @@ Projects are a way of changing reality and of helping to ensure Earth becomes mo
 ### Turning markdown into HTML and into MediaWiki syntax
 ![image](https://github.com/user-attachments/assets/163c7329-0c67-4d34-b2d3-68804d571605)
 
+### WP Qi Enhance
+
+- https://github.com/MichaelTen/wp-qi-enhancements
+
 ## External projects (not by me) that interest me
 
 ### UO Fiddler
